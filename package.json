@@ -1,0 +1,19 @@
+{
+  "name": "node-crash-course",
+  "version": "1.0.0",
+  "description": "A simple repo for exploring basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node app.js"
+  },
+  "author": "Umamaheswararao Meka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
